@@ -3,6 +3,17 @@ body{
     background: lavender;
 }
 
+.divider{
+    border-bottom: 1px solid #888989;
+    margin: 1px 0;
+  }
+
+  p {
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+
 .header{
     text-align:left;
 }
